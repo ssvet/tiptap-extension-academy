@@ -1,3 +1,4 @@
+// https://github.com/ssvet/tiptap-extension-academy
 import { mergeAttributes, Node } from '@tiptap/core';
 export var AcademyDiv = Node.create({
     name: 'div',

@@ -1,6 +1,6 @@
 {
   "name": "@ssvet/tiptap-extension-academy",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Academy Tip and Academy Note blocks for Tiptap editor",
   "main": "dist/index.js",
   "devDependencies": {
